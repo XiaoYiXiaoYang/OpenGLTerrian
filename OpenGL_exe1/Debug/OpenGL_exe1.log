@@ -1,0 +1,8 @@
+﻿  OpenGL_exe1.cpp
+f:\code\c++workplace\vscode\opengl\opengl_exe-light-texture-terrain\opengl_exe1\opengl_exe1.cpp(42): warning C4101: “up”: 未引用的局部变量
+f:\code\c++workplace\vscode\opengl\opengl_exe-light-texture-terrain\opengl_exe1\opengl_exe1.cpp(44): warning C4101: “z”: 未引用的局部变量
+f:\code\c++workplace\vscode\opengl\opengl_exe-light-texture-terrain\opengl_exe1\opengl_exe1.cpp(43): warning C4101: “right”: 未引用的局部变量
+f:\code\c++workplace\vscode\opengl\opengl_exe-light-texture-terrain\opengl_exe1\opengl_exe1.cpp(228): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+f:\code\c++workplace\vscode\opengl\opengl_exe-light-texture-terrain\opengl_exe1\opengl_exe1.cpp(229): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+  OpenGL_exe1.vcxproj -> F:\code\C++workplace\vscode\OpenGL\OpenGL_exe-light-texture-terrain\Debug\OpenGL_exe1.exe
+  OpenGL_exe1.vcxproj -> F:\code\C++workplace\vscode\OpenGL\OpenGL_exe-light-texture-terrain\Debug\OpenGL_exe1.pdb (Full PDB)
